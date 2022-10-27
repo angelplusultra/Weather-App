@@ -1,6 +1,7 @@
 # Weather-App
 
 Weather Application made with vanilla HTML, CSS, and JavaScript <br />
+
 The application fetches background images from Unsplash.com using the search query and gets it weather data from the OpenWeatherMap API. 
 
 <br />
